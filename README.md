@@ -19,6 +19,6 @@ Test
  - [x] Github
  - [ ] Other
 
-![Dog](Demo/Dog.jpg)
+![Dog](./Demo/Dog.jpg)
 
 This site was built using [Insert Link](http://pages.github.com/).
