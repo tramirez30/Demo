@@ -21,4 +21,4 @@ Test
 
 ![Dog](/Dog.jpg)
 
-This site was built using [This is a Link!](http://pages.github.com/).
+This site was built using [This is a Link!](http://pages.github.com/)
